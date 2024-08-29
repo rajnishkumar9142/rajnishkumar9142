@@ -1,4 +1,4 @@
-
+![logo](https://github.com/rajnishkumar9142/rajnishkumar9142/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
